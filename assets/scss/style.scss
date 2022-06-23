@@ -1,6 +1,13 @@
 .medicionav{
     padding: 20px 0px;
     background-color: white;
+
+    overflow: hidden;
+    top: 0;
+
+   position: fixed;
+   z-index: 1;
+   width: 100%;
 }
 
 .navbarbtn{
