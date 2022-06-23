@@ -127,7 +127,7 @@
 }
 
 .countcards {
-  margin-top: 20px;
+  margin-top: 100px;
 }
 
 .countcards p {
@@ -154,5 +154,23 @@
   font-size: xx-large;
   display: inline-block;
   color: #3fbbc0;
+}
+
+.about i {
+  font-size: xx-large;
+  color: #3fbbc0;
+  display: inline-block;
+}
+
+.about h5 {
+  display: inline-block;
+}
+
+.about .experimentimg {
+  width: 700px;
+  height: 400px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-image: url(https://bootstrapmade.com/demo/templates/Medicio/assets/img/features.jpg);
 }
 /*# sourceMappingURL=style.css.map */
