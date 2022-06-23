@@ -64,3 +64,37 @@
         color: white;
     }
 }
+
+.slidersec{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    .imgbox{
+        position: relative;
+       
+    }
+    .slidertxtbox{
+
+        p{
+            margin-top: 20px;
+        }
+        // margin-left: -120px;
+
+      position: absolute;
+      left: 8%;
+display: flex;
+        width: 1300px;
+        height: 250px;
+        background-color: white;
+opacity: 0.85;
+        .navbarbtn{
+          align-items: center;
+          justify-content: center;
+          left: 44%;
+          top: 70%;
+          position: absolute;
+          
+        }
+    }
+}
