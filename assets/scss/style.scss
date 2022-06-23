@@ -98,3 +98,63 @@ opacity: 0.85;
         }
     }
 }
+
+.slidersec{
+.cardicon{
+    color: red;
+
+}
+    .medicalcards{
+        h5{
+            color: red;
+        }
+    }
+    
+}
+
+.emergency{
+    position: relative;
+    text-align: center;
+    background-color: rgb(63, 187, 192);
+color: white;
+padding: 70px 0px;
+    h3{
+        font-weight: bolder;
+    }
+
+    button{
+position: absolute;
+left: 41%;
+top: 80%;
+        font-weight: bold;
+    }
+}
+
+.countcards{
+    margin-top: 20px;
+
+    p{
+        font-size: smaller;
+        font-weight: 500;
+        color: rgb(89, 89, 89);
+    }
+span{
+    font-weight: bolder;
+    font-size: 45px;
+    color: rgb(89, 89, 89);
+    margin-left: 15px;
+    display: inline-block;
+}
+    a{
+        text-decoration: none;
+        font-weight: bolder;
+        color: gray;
+    }
+    .countcard{
+        i{
+            font-size:xx-large;
+            display: inline-block;
+            color: rgb(63, 187, 192);
+        }
+    }
+}

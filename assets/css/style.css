@@ -98,4 +98,61 @@
   top: 70%;
   position: absolute;
 }
+
+.slidersec .cardicon {
+  color: red;
+}
+
+.slidersec .medicalcards h5 {
+  color: red;
+}
+
+.emergency {
+  position: relative;
+  text-align: center;
+  background-color: #3fbbc0;
+  color: white;
+  padding: 70px 0px;
+}
+
+.emergency h3 {
+  font-weight: bolder;
+}
+
+.emergency button {
+  position: absolute;
+  left: 41%;
+  top: 80%;
+  font-weight: bold;
+}
+
+.countcards {
+  margin-top: 20px;
+}
+
+.countcards p {
+  font-size: smaller;
+  font-weight: 500;
+  color: #595959;
+}
+
+.countcards span {
+  font-weight: bolder;
+  font-size: 45px;
+  color: #595959;
+  margin-left: 15px;
+  display: inline-block;
+}
+
+.countcards a {
+  text-decoration: none;
+  font-weight: bolder;
+  color: gray;
+}
+
+.countcards .countcard i {
+  font-size: xx-large;
+  display: inline-block;
+  color: #3fbbc0;
+}
 /*# sourceMappingURL=style.css.map */
