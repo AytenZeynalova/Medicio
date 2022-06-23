@@ -1,0 +1,52 @@
+.medicionav {
+  padding: 20px 0px;
+  background-color: white;
+}
+
+.navbarbtn {
+  background-color: #3fbbc0;
+  color: white;
+  padding: 7px 25px;
+  -webkit-transition: 0.3s;
+  transition: 0.3s;
+}
+
+.navbarbtn:hover {
+  background-color: #5fc8cb;
+}
+
+.navlogo img {
+  width: 150px;
+}
+
+.navbarlis ul li {
+  color: #646464;
+}
+
+.navbarlis ul li:hover {
+  color: #3fbbc0;
+}
+
+.navbarlis ul li a {
+  color: #646464;
+  margin-left: 10px;
+  font-weight: bold;
+  font-size: smaller;
+}
+
+.navbarlis ul li a:hover {
+  color: #3fbbc0;
+}
+
+.topnav {
+  background-color: #3fbbc0;
+}
+
+.topnav i {
+  color: white;
+}
+
+.topnav span {
+  color: white;
+}
+/*# sourceMappingURL=style.css.map */
